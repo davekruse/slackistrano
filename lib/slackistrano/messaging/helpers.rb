@@ -11,7 +11,7 @@ module Slackistrano
       end
 
       def username
-        'Slackistrano'
+        'R2-D2'
       end
 
       def deployer
